@@ -1,8 +1,6 @@
 # Job-Market-Analysis-Python-SQL-PowerBI
 Complete end-to-end Data Analytics project analyzing Job market using Python, MySQL and Power BI
 
-# Job Market Analysis – Data Science Hiring Trends in the United States
-
 ## Project Overview
 
 This project analyzes 742 Data Science job postings from across the United States to understand hiring trends, salary patterns, skill demand, industry hiring behavior, and geographic job distribution. The analysis was performed using Python, MySQL, and Power BI to generate business insights and support data-driven decision making for both employers and job seekers.
